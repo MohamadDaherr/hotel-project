@@ -1,0 +1,17 @@
+# Node modules and logs for frontend
+frontend/node_modules/
+frontend/*.log
+
+# Build files for frontend
+frontend/build/
+
+# Dependency directories for backend
+backend/node_modules/
+backend/target/
+
+# Environment variables and configuration files
+backend/.env
+backend/src/main/resources/application.properties
+
+# System files
+.DS_Store
